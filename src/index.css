@@ -15,12 +15,12 @@
   color: black;
 }
 
-.btn.active {
+.btn-active {
   background-color: hsl(200, 100%, 50%);
   color: white;
 }
 
-.btn.inactive {
+.btn-inactive {
   opacity: 0.3;
 }
 
